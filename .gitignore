@@ -1,0 +1,5 @@
+Secrets/**
+Theorie_orig/**
+.ipynb_checkpoints
+.idea
+.gitignore.bak
