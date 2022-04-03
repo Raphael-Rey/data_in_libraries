@@ -17,7 +17,7 @@
 * DIB, Firas, [sans date]. regex101: build, test, and debug regex. regex101. [en ligne]. [Consulté le 3 avril 2022]. Disponible à l’adresse: https://regex101.com/
 * LÓPEZ, Félix, 2014. Mastering Python Regular Expressions. Olton: Packt Publishing, Limited. ISBN 978-1-78328-316-3.
 
-### Web scraping
+## Web scraping
 * CHAPAGAIN, Anish, 2019. Hands-On Web Scraping with Python: Perform Advanced Scraping Operations Using Various Python Libraries and Tools Such As Selenium, Regex, and Others. Birmingham: Packt Publishing, Limited. ISBN 978-1-78953-339-2.
 * MITCHELL, Ryan et MITCHELL, Ryan, 2018. Web scraping with Python: collecting more data from the modern web. Second edition. Beijing: O’Reilly. ISBN 978-1-4919-8557-1.
 
